@@ -1,4 +1,4 @@
-Watermark
+Yii2 library Watermark
 =========
 Creating a watermark by position in the image
 
