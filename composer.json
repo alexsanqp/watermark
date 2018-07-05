@@ -1,0 +1,29 @@
+{
+  "name": "alexsanqp/watermark",
+  "description": "Creating a watermark by position in the image",
+  "type": "library",
+  "keywords": [
+    "yii2",
+    "library",
+    "watermark",
+    "image",
+    "photo"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Krykhtenko Alexandr",
+      "email": "alexsanqp@gmail.com",
+      "homepage": "https://github.com/alexsanqp/watermark",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "~2.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "alexsanqp\\watermark\\": "src"
+    }
+  }
+}
